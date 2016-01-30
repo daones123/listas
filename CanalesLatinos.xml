@@ -5,8 +5,8 @@ http://rinconcitom3u.blogspot.com
 http://rinconcitom3u.blogspot.com
 #EXTINF:-1,#[COLOR red] NOTA IMPORTANTE:HAGO ESTO CON LIBERTAD Y NO COBRO NADA, TODOS LOS ENLACES QUE ESTÁN EN MI LISTA DE CANALES NO SON DE MI AUTORÍA, PERO LAS HORAS DE INVESTIGACIÓN Y LA ORGANIZACIÓN DE LAS LISTAS, ESTE MÉRITO ES MIO!PERO LAMENTABLEMENTE HAY GENTE MALA QUE SE APROVECHAN DE NUESTRA GENEROSIDAD. SI EL PROBLEMA CONTINÚA , VOY A DEJAR DE PROPORCIONAR LISTAS ( by AXEL) [/COLOR]
 http://rinconcitom3u.blogspot.com
-Antena latina 7
-# EXTINF:-1 http://ss6.domint.net:1962/al_edge/antena/playlist.m3u8
+#EXTINF:-1,#[COLOR yellow] Antena latina 7[/COLOR]
+http://ss6.domint.net:1962/al_edge/antena/playlist.m3u8
 # EXTINF:-1 tvg-logo=\"Azteca Noticias.png\",Azteca Noticias http://iptvcanales.com/xw/cable.php?canal=61&player=playlist.m3u8 
 # EXTINF:-1 tvg-id=\"Canal Azteca 13 (México)\" tvg-logo=\"el-trece.png\",Canal Azteca 13 (México) http://iptvcanales.com/xw/cable.php?canal=08&player=playlist.m3u8 
 # EXTINF:-1 tvg-logo=\"canal-2-HD.png\",Canal De Las Estrellas http://iptvcanales.com/xw/cable.php?canal=03&player=playlist.m3u8 # EXTINF:-1 tvg-id=\"Canal 5 de México (XHGC)\" tvg-logo=\"canal-5-HD.png\",Canal 5 de México (XHGC) http://iptvcanales.com/xw/cable.php?canal=04&player=playlist.m3u8 
