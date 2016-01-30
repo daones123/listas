@@ -1,12 +1,5 @@
 #EXTM3U
-
-#EXTINF:-1,#[COLOR yellow] Antena latina 7[/COLOR]
+#EXTINF:-1,#[COLOR yellow]cer tv[/COLOR]
+http://216.24.196.40:1935/live/canal4/playlist.m3u8
+#EXTINF:-1,#[COLOR yellow]Antena latina 7[/COLOR]
 http://ss6.domint.net:1962/al_edge/antena/playlist.m3u8
-
-
-#EXTINF:-1,#[COLOR yellow]PELÍCULAS LATINO[/COLOR]
-http://jpst.it/Ey7W
-
-
-#EXTINF:-1,#[COLOR yellow]CDN[/COLOR]http://108.168.206.90:1935/cdn/cdn/playlist.m3u8
-
