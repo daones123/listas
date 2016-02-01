@@ -73,7 +73,8 @@
 	<!--http://i.imgur.com/  .png-->
 
 
-
+#EXTINF:-1,Telesistema (Republica Dominicana)
+rtmp://mek4.mekstream.com/telesistema playpath=live3 swfUrl=http://www.mekstream.com/clients/telesistema/player-licensed.swf live=1 pageUrl=http://telesistema11.com.do/senal-en-vivo/
 
 
 
