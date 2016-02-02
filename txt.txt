@@ -13,4 +13,7 @@ http://ss6.domint.net:1962/al_edge/antena/playlist.m3u8#MegaIPTVArgentina
 
 
 #EXTINF:-1,Teleantillas (Republica Dominicana)
-http://mek4.mekstream.com/teleantillas/live3/playlist.m3u8
+http://ss6.domint.net:1962/al_edge/antena/playlist.m3u8
+
+Antena latina 7
+http://ss6.domint.net:1962/al_edge/antena/playlist.m3u8
