@@ -1,1 +1,4 @@
-hola 
+
+#EXTM3U
+#EXTINF:-1,AMERICA TV HD (Perú)
+http://ooyalahd2-f.akamaihd.net/i/americatv_delivery@25405/index_1728_av-p.m3u8
