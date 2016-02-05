@@ -9,4 +9,7 @@ http://ooyalahd2-f.akamaihd.net/i/americatv_delivery@25405/index_1728_av-p.m3u8
 #EXTINF:-1,AMERICA TV HD (Perú)
 http://adrian.kodistream.info/adryan/deportes_adryan_list.xml
 
+#EXTINF:-1,Antena latina 7
+http://ss6.domint.net:1962/al_edge/antena/playlist.m3u8
+
 
