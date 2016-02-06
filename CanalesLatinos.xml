@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
+<channels>
+<channel>
 
 <item>
 <title>                           [COLOR skyblue][B]A D R Y A N [/COLOR][COLOR deepskyblue]L I S T[/B][/COLOR]</title>
@@ -8,8 +10,6 @@
 </item>
 
 
-<channels>
-<channel>
 <name> [COLOR skyblue]Peliculas[/COLOR]</name>
 <fanart>http://www.wallpaperup.com/uploads/wallpapers/2014/03/20/303417/big_thumb_954589a4595622c939e02c35e3232188.jpg</fanart>
 <thumbnail>http://i.imgur.com/eesWlxo.jpg</thumbnail>
