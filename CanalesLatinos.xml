@@ -2,7 +2,7 @@
 
 
 <channels>
-<channel>
+
 
 <items>
 
@@ -11,6 +11,7 @@
 <link>http://adrian.kodistream.info/adryan/liist.xml</link><thumbnail>http://i.imgur.com/oxTNPnp.jpg</thumbnail><fanart>http://adrian.kodistream.info/fanart.jpg</fanart>
 </item>
 
+<channel>
 
 <name> [COLOR skyblue]Peliculas[/COLOR]</name>
 <fanart>http://www.wallpaperup.com/uploads/wallpapers/2014/03/20/303417/big_thumb_954589a4595622c939e02c35e3232188.jpg</fanart>
