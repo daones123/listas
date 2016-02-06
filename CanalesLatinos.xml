@@ -15,3 +15,8 @@ http://ss6.domint.net:1962/al_edge/antena/playlist.m3u8
 #EXTINF:-1,Youtube
 https://www.youtube.com/watch?v=3O1_3zBUKM8
 
+<item>
+<title>[COLOR lime]•[/COLOR][COLOR skyblue]  [B]Peliculas[/B] [/COLOR]</title>
+<link>http://ignorame</link><thumbnail>http://i.imgur.com/oxTNPnp.jpg</thumbnail><fanart>http://adrian.kodistream.info/fanart.jpg</fanart>
+<externallink>http://adrian.kodistream.info/adryan/pyt_vod.xml</externallink>
+</item>
