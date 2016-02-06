@@ -31,28 +31,16 @@
 <info>La primera misi bancaria en Haitesonando en sus sueMUElVaO8GqZSh4Atmy9kiuqMn.jpg</fanart>
 <thumbnail>https://image.tmdb.org/t/p/w500/h05pzBZ1rnHI4MOzLvTwii1SgUQ.jpg</thumbnail>
 <info></info>
+
 </item>
 
-<item>
-<title>Planeta de los Simios 5</title>
-<link>$doregex[id]</link>
-<regex>
-<name>id</name>
-<expres>file:'(.*)'</expres>
-<page>http://streamin.to/embed-je93xz03xpif-740x360.html</page>
-<referer>http://streamin.to</referer>
-</regex>
-<fanart>https://image.tmdb.org/t/p/original/azmsl7UwTRtMeBvBkAWydWNxdTm.jpg</fanart>
-<thumbnail>https://image.tmdb.org/t/p/w500/ShnH8qSMYt6wvYHdA3akjfUwpo.jpg</thumbnail>
-<info></info>
-<item>
 
 <title>Planeta de los Simios 6</title>
 <link>$doregex[id]</link>
 <regex>
 <name>id</name>
 <expres>file:'(.*)'</expres>
-<page>http://streamin.to/embed-0l9111ukhla4-740x360.html</page>
+<page>https://raw.githubusercontent.com/daones123/listas/master/prueba.xml</page>
 <referer>http://streamin.to</referer>
 </regex>
 <fanart>http://image.tmdb.org/t/p/original/j2hbV82AE9BGztm7rb0weKpQoO0.jpg</fanart>
@@ -65,18 +53,3 @@
 </channel>
  
  
-
-
-<item>
-<title>Que le Dijiste a Dios?</title>
-<link>$doregex[id]</link>
-<regex>
-<name>id</name>
-<expres>file:'(.*)'</expres>
-<page>http://streamin.to/embed-0of6wr7blx7e-740x360.html</page>
-<referer>http://streamin.to</referer>
-</regex>
-<fanart>https://image.tmdb.org/t/p/original/rPdTqSXIit5K4Pj0u0yYI8ERXqW.jpg</fanart>
-<thumbnail>https://image.tmdb.org/t/p/w500/rxORUWlntFGFkV8dOqeTiLRWJ8l.jpg</thumbnail>
-<info>Martina y Lupita, dos muchachas de servicio que deciden hacerlo todo por amor, cuando su patrona, Marcela, no las deja ir a una boda en su pueblo. Las dos hermanas le roban ropa y zapatos y huyen al pueblo, donde Lupita buscar
-
