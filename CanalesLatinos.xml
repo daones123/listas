@@ -7,48 +7,74 @@
  
  
 <channel>
-<name>Estrenos</name>
+<name>Peliculas</name>
+<fanart>http://www.wallpaperup.com/uploads/wallpapers/2014/03/20/303417/big_thumb_954589a4595622c939e02c35e3232188.jpg</fanart>
+<thumbnail>http://i.imgur.com/eesWlxo.jpg</thumbnail>
+<items>
+
+
+<item>
+<title>El Infierno</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-hrhlqiswoaui-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/rQPert6i5pTTjNinTGwXzgxWjy5.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w500/82VRb1DTNQoqRGKZ042r2PT0skl.jpg</thumbnail>
+<info></info>
+</item>
+
+
+
+
+<name>Series</name>
 <fanart>http://www.wallpaperup.com/uploads/wallpapers/2014/03/20/303417/big_thumb_954589a4595622c939e02c35e3232188.jpg</fanart>
 <thumbnail>http://i.imgur.com/eesWlxo.jpg</thumbnail>
 <items>
 
 <item>
-<title>Infiltrados en Miami 2</title>
+<title>El Infierno</title>
 <link>$doregex[id]</link>
 <regex>
 <name>id</name>
 <expres>file:'(.*)'</expres>
-<page>http://streamin.to/embed-edhsw32tpzij-740x360.html</page>
+<page>http://streamin.to/embed-hrhlqiswoaui-740x360.html</page>
 <referer>http://streamin.to</referer>
 </regex>
-<fanart>https://image.tmdb.org/t/p/original/3SEsPAVLPh4ZTKGUdI1GjfVgaA.jpg</fanart>
-<thumbnail>https://image.tmdb.org/t/p/w500/nenRpeVHOCp0zc7ERW43sZWzlql.jpg</thumbnail>
-<info>Kevin Hart y Ice Cube encabezan el reparto de INFILTRADOS EN MIAMI, la secuela de la comedia de acciconsigue un papel en la obra que dirige Arnold, en la que tambioso jefe del cartel, personaje de gran carisma y con aspiraciones poled-x6sio3z6qup9-740x360.html</page>
-<referer>http://streamin.to</referer>
-</regex>
-<fanart>https://image.tmdb.org/t/p/original/xq6hXdBpDPIXWjtmvbFmtLvBFJt.jpg</fanart>
-<thumbnail>https://image.tmdb.org/t/p/w500/g3ICXh09CWUfYEUU6ITyDyNuPWy.jpg</thumbnail>
-<info>La primera misi bancaria en Haitesonando en sus sueMUElVaO8GqZSh4Atmy9kiuqMn.jpg</fanart>
-<thumbnail>https://image.tmdb.org/t/p/w500/h05pzBZ1rnHI4MOzLvTwii1SgUQ.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/rQPert6i5pTTjNinTGwXzgxWjy5.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w500/82VRb1DTNQoqRGKZ042r2PT0skl.jpg</thumbnail>
 <info></info>
-
 </item>
 
 
-<title>Planeta de los Simios 6</title>
+</items>
+
+
+
+<name>canales</name>
+<fanart>http://www.wallpaperup.com/uploads/wallpapers/2014/03/20/303417/big_thumb_954589a4595622c939e02c35e3232188.jpg</fanart>
+<thumbnail>http://i.imgur.com/eesWlxo.jpg</thumbnail>
+<items>
+
+<item>
+<title>El Infierno</title>
 <link>$doregex[id]</link>
 <regex>
 <name>id</name>
 <expres>file:'(.*)'</expres>
-<page>https://raw.githubusercontent.com/daones123/listas/master/prueba.xml</page>
+<page>http://streamin.to/embed-hrhlqiswoaui-740x360.html</page>
 <referer>http://streamin.to</referer>
 </regex>
-<fanart>http://image.tmdb.org/t/p/original/j2hbV82AE9BGztm7rb0weKpQoO0.jpg</fanart>
-<thumbnail>http://peliculasaudiolatino.com/1movieimg/movie1289968670.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/rQPert6i5pTTjNinTGwXzgxWjy5.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w500/82VRb1DTNQoqRGKZ042r2PT0skl.jpg</thumbnail>
 <info></info>
 </item>
 
- 
+
+</items>
  
 </channel>
  
