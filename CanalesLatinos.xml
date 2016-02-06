@@ -2,18 +2,6 @@
 
 
 
-
-<item>
-<title>[COLOR lime]•[/COLOR][COLOR coral]  [karla mama de huevo]  [/COLOR] [COLOR skyblue] [/COLOR]  </title>
-
-
-
-
-<info></info>
-</item>
-
-
-
 <item>
 <title>[COLOR lime]•[/COLOR][COLOR coral]  [B]AloFlix [/B]  [/COLOR] [COLOR skyblue] [Peliculas en SD y HD Audio Latino][/COLOR]  </title>
 <link>http://ignora.me</link>
@@ -22,5 +10,30 @@
 <thumbnail>http://i.imgur.com/iYCbuTY.jpg</thumbnail>
 <info></info>
 </item>
+
+
+
+<item>
+<title>Infiltrados en Miami 2</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-edhsw32tpzij-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/3SEsPAVLPh4ZTKGUdI1GjfVgaA.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w500/nenRpeVHOCp0zc7ERW43sZWzlql.jpg</thumbnail>
+<info>Kevin Hart y Ice Cube encabezan el reparto de INFILTRADOS EN MIAMI, la secuela de la comedia de acciconsigue un papel en la obra que dirige Arnold, en la que tambioso jefe del cartel, personaje de gran carisma y con aspiraciones poled-x6sio3z6qup9-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/xq6hXdBpDPIXWjtmvbFmtLvBFJt.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w500/g3ICXh09CWUfYEUU6ITyDyNuPWy.jpg</thumbnail>
+<info>La primera misi bancaria en Haitesonando en sus sueMUElVaO8GqZSh4Atmy9kiuqMn.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w500/h05pzBZ1rnHI4MOzLvTwii1SgUQ.jpg</thumbnail>
+<info></info>
+</item>
+
+
 
 
