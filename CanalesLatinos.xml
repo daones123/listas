@@ -58,6 +58,21 @@
 
 
 
+<items>
+<items_info> <!-- this is opitonal -->
+      <title>Adryan List </title> 
+      <genre>Tv Live</genre>
+      <description>: Lista de Canales para el Livestreamspro :</description>
+      <thumbnail>http://i.imgur.com/oxTNPnp.jpg</thumbnail>
+      <fanart>http://adrian.kodistream.info/fanart.jpg</fanart>
+      <date>13.02.2015</date>
+      <cwhiteits>adryan</cwhiteits>
+    </items_info>
+	
+	
+	<!--http://i.imgur.com/  .png-->
+
+
 
 
 
