@@ -5,17 +5,14 @@
 
 <channels>
 
-<items>
 
 
 <channel>
 
-<name>[COLOR blue]Peliculas[/COLOR]</name>
+<name>[COLOR blue]Peliculaseliculas[/COLOR]</name>
 <fanart>http://www.wallpaperup.com/uploads/wallpapers/2014/03/20/303417/big_thumb_954589a4595622c939e02c35e3232188.jpg</fanart>
 <thumbnail>http://i.imgur.com/eesWlxo.jpg</thumbnail>
-
 <items>
-
 
 <item>
 <title>El Infierno</title>
@@ -30,6 +27,8 @@
 <thumbnail>https://image.tmdb.org/t/p/w500/82VRb1DTNQoqRGKZ042r2PT0skl.jpg</thumbnail>
 <info></info>
 </item>
+
+
 </items>
 
 <!----------------------
