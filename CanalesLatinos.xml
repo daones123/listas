@@ -44,12 +44,12 @@
 <items>
 
 <item>
-<title>El Infierno</title>
+<title>te de campana</title>
 <link>$doregex[id]</link>
 <regex>
 <name>id</name>
 <expres>file:'(.*)'</expres>
-<page>http://streamin.to/embed-hrhlqiswoaui-740x360.html</page>
+<page>http://streamin.to/embed-yjdthrbeyvdu-640x360.html</page>
 <referer>http://streamin.to</referer>
 </regex>
 <fanart>https://image.tmdb.org/t/p/original/rQPert6i5pTTjNinTGwXzgxWjy5.jpg</fanart>
