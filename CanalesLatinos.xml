@@ -38,25 +38,73 @@
 </channel>
 <channel>
 
+
+<name>[COLOR grey]Informacion : 829-646-6153[/COLOR]</name>
+<fanart>http://www.wallpaperup.com/uploads/wallpapers/2014/03/20/303417/big_thumb_954589a4595622c939e02c35e3232188.jpg</fanart>
+<thumbnail>https://pixabay.com/static/uploads/photo/2013/07/12/16/23/alphabet-150811_960_720.png</thumbnail>
+<items>
+</items>
+</channel>
+<channel>
+
 <name>[COLOR red]• [/COLOR][COLOR blue]Peliculas[/COLOR]</name>
 <fanart>http://www.wallpaperup.com/uploads/wallpapers/2014/03/20/303417/big_thumb_954589a4595622c939e02c35e3232188.jpg</fanart>
 <thumbnail>https://pixabay.com/static/uploads/photo/2013/07/12/16/23/alphabet-150811_960_720.png</thumbnail>
 <items>
 
-<item>
-<title>te de campana</title>
-<link>$doregex[id]</link>
-<regex>
-<name>id</name>
-<expres>file:'(.*)'</expres>
-<page>http://streamin.to/embed-yjdthrbeyvdu-640x360.html</page>
-<referer>http://streamin.to</referer>
-</regex>
-<fanart>https://image.tmdb.org/t/p/original/rQPert6i5pTTjNinTGwXzgxWjy5.jpg</fanart>
-<thumbnail>https://image.tmdb.org/t/p/w500/82VRb1DTNQoqRGKZ042r2PT0skl.jpg</thumbnail>
-<info></info>
-</item>
+	<channel>
 
+		<name>[COLOR red]• [/COLOR][COLOR blue]Terror[/COLOR]</name>
+		<fanart>http://www.wallpaperup.com/uploads/wallpapers/2014/03/20/303417/big_thumb_954589a4595622c939e02c35e3232188.jpg</fanart>
+		<thumbnail>https://pixabay.com/static/uploads/photo/2013/07/12/16/23/alphabet-150811_960_720.png</thumbnail>
+		
+		<items>
+
+		<item>
+			<title>te de campana</title>
+		<link>$doregex[id]</link>
+		<regex>
+		<name>id</name>
+		<expres>file:'(.*)'</expres>
+		<page>http://streamin.to/embed-yjdthrbeyvdu-640x360.html</page>
+		<referer>http://streamin.to</referer>
+		</regex>
+		<fanart>https://image.tmdb.org/t/p/original/rQPert6i5pTTjNinTGwXzgxWjy5.jpg</fanart>
+		<thumbnail>https://image.tmdb.org/t/p/w500/82VRb1DTNQoqRGKZ042r2PT0skl.jpg</thumbnail>
+		<info></info>
+		</item>
+
+
+		</items>
+
+	</channel>
+	
+	<channel>
+
+		<name>[COLOR red]• [/COLOR][COLOR blue]Accion[/COLOR]</name>
+		<fanart>http://www.wallpaperup.com/uploads/wallpapers/2014/03/20/303417/big_thumb_954589a4595622c939e02c35e3232188.jpg</fanart>
+		<thumbnail>https://pixabay.com/static/uploads/photo/2013/07/12/16/23/alphabet-150811_960_720.png</thumbnail>
+		
+		<items>
+
+		<item>
+			<title>te de campana</title>
+		<link>$doregex[id]</link>
+		<regex>
+		<name>id</name>
+		<expres>file:'(.*)'</expres>
+		<page>http://streamin.to/embed-yjdthrbeyvdu-640x360.html</page>
+		<referer>http://streamin.to</referer>
+		</regex>
+		<fanart>https://image.tmdb.org/t/p/original/rQPert6i5pTTjNinTGwXzgxWjy5.jpg</fanart>
+		<thumbnail>https://image.tmdb.org/t/p/w500/82VRb1DTNQoqRGKZ042r2PT0skl.jpg</thumbnail>
+		<info></info>
+		</item>
+
+
+		</items>
+
+	</channel>
 
 </items>
 
