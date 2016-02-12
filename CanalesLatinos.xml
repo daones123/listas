@@ -12,7 +12,7 @@
 <channel>
 
 
-<name>[COLOR grey]                                          Bienvenidos [/COLOR]</name>
+<name>[COLOR grey]                                                   Bienvenidos [/COLOR]</name>
 <fanart>http://i.imgur.com/K4xQJGC.jpg</fanart>
 <thumbnail>http://i.imgur.com/K4xQJGC.jpg</thumbnail>
 <items>
@@ -46,7 +46,7 @@
 </channel>
 <channel>
 
-<name>Nuevos Canales:[/COLOR]</name>
+<name>Nuevos Canales:</name>
 <fanart>http://i.imgur.com/K4xQJGC.jpg</fanart>
 <thumbnail>http://i.imgur.com/K4xQJGC.jpg</thumbnail>
 <items>
@@ -56,6 +56,15 @@
 
 
 <name>[COLOR grey]                                        Informacion[/COLOR]</name>
+<fanart>http://i.imgur.com/K4xQJGC.jpg</fanart>
+<thumbnail>http://i.imgur.com/K4xQJGC.jpg</thumbnail>
+<items>
+</items>
+</channel>
+<channel>
+
+
+<name></name>
 <fanart>http://i.imgur.com/K4xQJGC.jpg</fanart>
 <thumbnail>http://i.imgur.com/K4xQJGC.jpg</thumbnail>
 <items>
