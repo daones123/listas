@@ -12,9 +12,9 @@
 <channel>
 
 
-<name>[COLOR grey]                                     Bienvenidos [/COLOR]</name>
-<fanart>http://www.wallpaperup.com/uploads/wallpapers/2014/03/20/303417/big_thumb_954589a4595622c939e02c35e3232188.jpg</fanart>
-<thumbnail>https://pixabay.com/static/uploads/photo/2013/07/12/16/23/alphabet-150811_960_720.png</thumbnail>
+<name>[COLOR grey]                                          Bienvenidos [/COLOR]</name>
+<fanart>http://i.imgur.com/K4xQJGC.jpg</fanart>
+<thumbnail>http://i.imgur.com/K4xQJGC.jpg</thumbnail>
 <items>
 </items>
 </channel>
@@ -22,89 +22,67 @@
 
 
 <name>[COLOR red]•••••••••••••••••••••••••••••••••••••••••• [/COLOR][COLOR blue]C.R.A[/COLOR][COLOR red]•••••••••••••••••••••••••••••••••••••••••• [/COLOR]</name>
-<fanart>http://www.wallpaperup.com/uploads/wallpapers/2014/03/20/303417/big_thumb_954589a4595622c939e02c35e3232188.jpg</fanart>
-<thumbnail>https://pixabay.com/static/uploads/photo/2013/07/12/16/23/alphabet-150811_960_720.png</thumbnail>
+<fanart>http://i.imgur.com/K4xQJGC.jpg</fanart>
+<thumbnail>http://i.imgur.com/K4xQJGC.jpg</thumbnail>
 <items>
 </items>
 </channel>
 <channel>
 
 
-<name>[COLOR grey]Nuevas Peliculas:        Nuevas Series:        Nuevos Canales:[/COLOR]</name>
-<fanart>http://www.wallpaperup.com/uploads/wallpapers/2014/03/20/303417/big_thumb_954589a4595622c939e02c35e3232188.jpg</fanart>
-<thumbnail>https://pixabay.com/static/uploads/photo/2013/07/12/16/23/alphabet-150811_960_720.png</thumbnail>
+<name>[COLOR grey]Nuevas Peliculas:[/COLOR]</name>
+<fanart>http://i.imgur.com/K4xQJGC.jpg</fanart>
+<thumbnail>http://i.imgur.com/K4xQJGC.jpg</thumbnail>
+<items>
+</items>
+</channel>
+<channel>
+
+<name>Nuevas Series:</name>
+<fanart>http://i.imgur.com/K4xQJGC.jpg</fanart>
+<thumbnail>http://i.imgur.com/K4xQJGC.jpg</thumbnail>
+<items>
+</items>
+</channel>
+<channel>
+
+<name>Nuevos Canales:[/COLOR]</name>
+<fanart>http://i.imgur.com/K4xQJGC.jpg</fanart>
+<thumbnail>http://i.imgur.com/K4xQJGC.jpg</thumbnail>
 <items>
 </items>
 </channel>
 <channel>
 
 
-<name>[COLOR grey]Informacion : 829-646-6153[/COLOR]</name>
-<fanart>http://www.wallpaperup.com/uploads/wallpapers/2014/03/20/303417/big_thumb_954589a4595622c939e02c35e3232188.jpg</fanart>
-<thumbnail>https://pixabay.com/static/uploads/photo/2013/07/12/16/23/alphabet-150811_960_720.png</thumbnail>
+<name>[COLOR grey]                                        Informacion[/COLOR]</name>
+<fanart>http://i.imgur.com/K4xQJGC.jpg</fanart>
+<thumbnail>http://i.imgur.com/K4xQJGC.jpg</thumbnail>
 <items>
 </items>
 </channel>
 <channel>
 
 <name>[COLOR red]• [/COLOR][COLOR blue]Peliculas[/COLOR]</name>
-<fanart>http://www.wallpaperup.com/uploads/wallpapers/2014/03/20/303417/big_thumb_954589a4595622c939e02c35e3232188.jpg</fanart>
-<thumbnail>https://pixabay.com/static/uploads/photo/2013/07/12/16/23/alphabet-150811_960_720.png</thumbnail>
+<fanart>http://i.imgur.com/qjmJJAZ.jpg</fanart>
+<thumbnail>http://i.imgur.com/qjmJJAZ.jpg</thumbnail>
 <items>
 
-	<channel>
-
-		<name>[COLOR red]• [/COLOR][COLOR blue]Terror[/COLOR]</name>
-		<fanart>http://www.wallpaperup.com/uploads/wallpapers/2014/03/20/303417/big_thumb_954589a4595622c939e02c35e3232188.jpg</fanart>
-		<thumbnail>https://pixabay.com/static/uploads/photo/2013/07/12/16/23/alphabet-150811_960_720.png</thumbnail>
-		
-		<items>
-
-		<item>
-			<title>te de campana</title>
-		<link>$doregex[id]</link>
-		<regex>
-		<name>id</name>
-		<expres>file:'(.*)'</expres>
-		<page>http://streamin.to/embed-yjdthrbeyvdu-640x360.html</page>
-		<referer>http://streamin.to</referer>
-		</regex>
-		<fanart>https://image.tmdb.org/t/p/original/rQPert6i5pTTjNinTGwXzgxWjy5.jpg</fanart>
-		<thumbnail>https://image.tmdb.org/t/p/w500/82VRb1DTNQoqRGKZ042r2PT0skl.jpg</thumbnail>
-		<info></info>
-		</item>
-
-
-		</items>
-
-	</channel>
 	
-	<channel>
-
-		<name>[COLOR red]• [/COLOR][COLOR blue]Accion[/COLOR]</name>
-		<fanart>http://www.wallpaperup.com/uploads/wallpapers/2014/03/20/303417/big_thumb_954589a4595622c939e02c35e3232188.jpg</fanart>
-		<thumbnail>https://pixabay.com/static/uploads/photo/2013/07/12/16/23/alphabet-150811_960_720.png</thumbnail>
-		
-		<items>
-
-		<item>
-			<title>te de campana</title>
-		<link>$doregex[id]</link>
-		<regex>
-		<name>id</name>
-		<expres>file:'(.*)'</expres>
-		<page>http://streamin.to/embed-yjdthrbeyvdu-640x360.html</page>
-		<referer>http://streamin.to</referer>
-		</regex>
-		<fanart>https://image.tmdb.org/t/p/original/rQPert6i5pTTjNinTGwXzgxWjy5.jpg</fanart>
-		<thumbnail>https://image.tmdb.org/t/p/w500/82VRb1DTNQoqRGKZ042r2PT0skl.jpg</thumbnail>
-		<info></info>
-		</item>
-
-
-		</items>
-
-	</channel>
+<item>
+<title>HOLA</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-hrhlqiswoaui-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/rQPert6i5pTTjNinTGwXzgxWjy5.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w500/82VRb1DTNQoqRGKZ042r2PT0skl.jpg</thumbnail>
+<info></info>
+</item>
+	
 
 </items>
 
@@ -117,8 +95,8 @@
 <channel>
 
 <name>[COLOR red]• [/COLOR][COLOR blue]Series[/COLOR]</name>
-<fanart>http://www.wallpaperup.com/uploads/wallpapers/2014/03/20/303417/big_thumb_954589a4595622c939e02c35e3232188.jpg</fanart>
-<thumbnail>https://pixabay.com/static/uploads/photo/2013/07/12/16/23/alphabet-150811_960_720.png</thumbnail>
+<fanart>http://i.imgur.com/GFwwpig.jpg</fanart>
+<thumbnail>http://i.imgur.com/GFwwpig.jpg</thumbnail>
 <items>
 
 <item>
@@ -136,51 +114,10 @@
 </item>
 
 
-<item>
-<title>hello</title>
-<link>$doregex[id]</link>
-<regex>
-<name>id</name>
-<expres>file:'(.*)'</expres>
-<page>http://streamin.to/embed-hrhlqiswoaui-740x360.html</page>
-<referer>http://streamin.to</referer>
-</regex>
-<fanart>https://image.tmdb.org/t/p/original/rQPert6i5pTTjNinTGwXzgxWjy5.jpg</fanart>
-<thumbnail>https://image.tmdb.org/t/p/w500/82VRb1DTNQoqRGKZ042r2PT0skl.jpg</thumbnail>
-<info></info>
-</item>
 
 
 </items>
 </channel>
 
-<!----------------------
------------------------->
-
-<channel>
-
-<name>[COLOR red]• [/COLOR][COLOR blue]Canales[/COLOR]</name>
-<fanart>http://www.wallpaperup.com/uploads/wallpapers/2014/03/20/303417/big_thumb_954589a4595622c939e02c35e3232188.jpg</fanart>
-<thumbnail>https://pixabay.com/static/uploads/photo/2013/07/12/16/23/alphabet-150811_960_720.png</thumbnail>
-<items>
-
-<item>
-<title>El Infierno</title>
-<link>$doregex[id]</link>
-<regex>
-<name>id</name>
-<expres>file:'(.*)'</expres>
-<page>http://streamin.to/embed-hrhlqiswoaui-740x360.html</page>
-<referer>http://streamin.to</referer>
-</regex>
-<fanart>https://image.tmdb.org/t/p/original/rQPert6i5pTTjNinTGwXzgxWjy5.jpg</fanart>
-<thumbnail>https://image.tmdb.org/t/p/w500/82VRb1DTNQoqRGKZ042r2PT0skl.jpg</thumbnail>
-<info></info>
-</item>
 
 
-
-
- 
- </items>
- </channel>
