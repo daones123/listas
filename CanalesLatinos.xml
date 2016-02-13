@@ -18,26 +18,24 @@
 <items>
 </items>
 </channel>
+
 <channel>
-
-
 <name>[COLOR red]•••••••••••••••••••••••••••••••••••••••••• [/COLOR][COLOR blue]C.R.A[/COLOR][COLOR red]•••••••••••••••••••••••••••••••••••••••••• [/COLOR]</name>
 <fanart>http://i.imgur.com/K4xQJGC.jpg</fanart>
 <thumbnail>http://i.imgur.com/K4xQJGC.jpg</thumbnail>
 <items>
 </items>
 </channel>
+
 <channel>
-
-
 <name>[COLOR grey]Nuevas Peliculas:[/COLOR]</name>
 <fanart>http://i.imgur.com/K4xQJGC.jpg</fanart>
 <thumbnail>http://i.imgur.com/K4xQJGC.jpg</thumbnail>
 <items>
 </items>
 </channel>
-<channel>
 
+<channel>
 <name>Nuevas Series:</name>
 <fanart>http://i.imgur.com/K4xQJGC.jpg</fanart>
 <thumbnail>http://i.imgur.com/K4xQJGC.jpg</thumbnail>
@@ -54,7 +52,7 @@
 </channel>
 
 <channel>
-<name>                                              Informacion</name>
+<name>                                                 Informacion</name>
 <fanart>http://i.imgur.com/K4xQJGC.jpg</fanart>
 <thumbnail>http://i.imgur.com/K4xQJGC.jpg</thumbnail>
 <items>
@@ -67,23 +65,6 @@
 <thumbnail>http://i.imgur.com/K4xQJGC.jpg</thumbnail>
 <items>
 
-
-<item>
-<title>steve jobs</title>
-<link>$doregex[id]</link>
-<regex>
-<name>id</name>
-<expres>file:'(.*)'</expres>
-<page>http://streamin.to/qdlhsftxazkb</page>
-<referer>http://streamin.to</referer>
-</regex>
-<fanart>http://es.web.img1.acsta.net/r_160_240/b_1_d6d6d6/pictures/15/09/07/10/28/163814.jpg</fanart>
-<thumbnail>http://es.web.img1.acsta.net/r_160_240/b_1_d6d6d6/pictures/15/09/07/10/28/163814.jpg</thumbnail>
-<info></info>
-</item>
-
-</items>
-</channel>
 
 <channel>
 <name>[COLOR red]• [/COLOR][COLOR blue]Peliculas[/COLOR]</name>
@@ -168,3 +149,4 @@
 
 
 
+</channels>
