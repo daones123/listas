@@ -79,7 +79,7 @@
 <regex>
 <name>id</name>
 <expres>file:'(.*)'</expres>
-<page>http://streamin.to/qdlhsftxazkb</page>
+<page>http://streamin.to/embed-qdlhsftxazkb-640x360.html</page>
 <referer>http://streamin.to</referer>
 </regex>
 <fanart>http://es.web.img1.acsta.net/r_160_240/b_1_d6d6d6/pictures/15/09/07/10/28/163814.jpg</fanart>
