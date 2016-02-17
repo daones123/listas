@@ -144,16 +144,10 @@
 <thumbnail>https://image.tmdb.org/t/p/w500/82VRb1DTNQoqRGKZ042r2PT0skl.jpg</thumbnail>
 <info></info>
 
-<item>
-<title>[COLOR lime]•[/COLOR][COLOR coral]  Canales  [/COLOR]  </title>
-<link>http://ignora.me</link>
-<externallink>https://raw.githubusercontent.com/daones123/listas/master/prueba.xml</externallink>
-<fanart>http://fotonin.com/data_images/out/5/776482-cool-movie-wallpaper.jpg</fanart>
-<thumbnail>http://i.imgur.com/iYCbuTY.jpg</thumbnail>
-<info></info>
 </item>
 
-</item>
+
+
 </items>
 </channel>
 
@@ -167,6 +161,16 @@
 <fanart>http://i.imgur.com/GFwwpig.jpg</fanart>
 <thumbnail>http://i.imgur.com/GFwwpig.jpg</thumbnail>
 <items>
+
+
+<item>
+<title>[COLOR lime]•[/COLOR][COLOR coral]  Canales  [/COLOR]  </title>
+<link>http://ignora.me</link>
+<externallink>https://raw.githubusercontent.com/daones123/listas/master/prueba.xml</externallink>
+<fanart>http://fotonin.com/data_images/out/5/776482-cool-movie-wallpaper.jpg</fanart>
+<thumbnail>http://i.imgur.com/iYCbuTY.jpg</thumbnail>
+<info></info>
+</item>
 
 
 </items>
