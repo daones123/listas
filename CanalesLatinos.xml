@@ -127,7 +127,7 @@
 
 <channel>
 
-<name>[COLOR red]• [/COLOR][COLOR blue]canales[/COLOR]</name>
+<name>[COLOR red]• [/COLOR][COLOR blue]Series[/COLOR]</name>
 <fanart>http://i.imgur.com/GFwwpig.jpg</fanart>
 <thumbnail>http://i.imgur.com/GFwwpig.jpg</thumbnail>
 <items>
@@ -159,4 +159,17 @@
 
 	
 
+	
+
+<channel>
+
+<name>[COLOR red]• [/COLOR][COLOR blue]Canales[/COLOR]</name>
+<fanart>http://i.imgur.com/GFwwpig.jpg</fanart>
+<thumbnail>http://i.imgur.com/GFwwpig.jpg</thumbnail>
+<items>
+
+
+</items>
+</channel>
+	
 </channels>
