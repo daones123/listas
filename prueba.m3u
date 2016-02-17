@@ -16,36 +16,36 @@ http://acabsw.doiptv.com/cs_canal_30/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Canal%20%2B%20Acci%C3%B3n.png" group-title="CINE",C+ Acción
 http://acabsw.doiptv.com/cs_canal_accion/playlist.m3u8
 
-Antena latina 7
+#EXTINF:-1 Antena latina 7
 http://ss6.domint.net:1962/al_edge/antena/playlist.m3u8
 
-cer tv
+#EXTINF:-1 cer tv
 http://216.24.196.40:1935/live/canal4/playlist.m3u8
 
-cdn
+#EXTINF:-1 cdn
 http://108.168.206.90:1935/cdn/cdn/playlist.m3u8
 
-telecentro
+#EXTINF:-1 telecentro
 http://ss7.domint.net:2050/tcc_str/tc13/playlist.m3u8
 
-canal 25 santiago
+#EXTINF:-1 canal 25 santiago
 http://ss7.domint.net:2074/tdtv_str/vision/playlist.m3u8
 
-Teleantillas
+#EXTINF:-1 Teleantillas
 http://mek4.mekstream.com/teleantillas/smil:teleantillas.smil/playlist.m3u8
 
-color vision
+#EXTINF:-1 color vision
 http://ss7.domint.net:2048/cvis_str/color/playlist.m3u8
 
-cdn sport max
+#EXTINF:-1 cdn sport max
 http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
 
-canal 25 santiago
+#EXTINF:-1 canal 25 santiago
 http://ss7.domint.net:2074/tdtv_str/vision/playlist.m3u8
 
-Teleradio America
+#EXTINF:-1 Teleradio America
 http://ss7.domint.net:2068/t45_str/trlive/playlist.m3u8
 
-Super canal 33
+#EXTINF:-1 Super canal 33
 http://ss6.domint.net:2010/sc33_str/super/playlist.m3u8
 
