@@ -148,23 +148,10 @@
 </channel>
 
 
-
-<channel>
-<name>[COLOR red]• [/COLOR][COLOR blue]Canales[/COLOR]</name>
-<fanart>http://i.imgur.com/qjmJJAZ.jpg</fanart>
-<thumbnail>http://i.imgur.com/qjmJJAZ.jpg</thumbnail>
-
-<items>
 	
-	
-<title>Fox HD</title>
-<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/FOXHDLA/playlist.m3u8?token=$doregex[tok]</link>
+<title>Canales</title>
+<link>https://raw.githubusercontent.com/daones123/listas/master/prueba.xml</link>
 <regex><name>tok</name><expres>token=(.*)</expres>
-<page>http://adryanlist.byethost22.com/nescafe.php?cm=3947</page>
-<referer>http://adryan.host.sk</referer><setcookie>programa=rosadintv</setcookie></regex>
-<thumbnail>http://iptv.latino-webtv.com/logos/fox.png</thumbnail>
 
-</items>
 
-</channel>
 </channels>
