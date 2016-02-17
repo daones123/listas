@@ -148,9 +148,17 @@
 </channel>
 
 
+<item>
+<title>[COLOR lime]•[/COLOR][COLOR coral]  [B]AloFlix [/B]  [/COLOR] [COLOR skyblue] [Peliculas en SD y HD Audio Latino][/COLOR]  </title>
+<link>http://ignora.me</link>
+<externallink>https://raw.githubusercontent.com/daones123/listas/master/prueba.xml</externallink>
+<fanart>http://fotonin.com/data_images/out/5/776482-cool-movie-wallpaper.jpg</fanart>
+<thumbnail>http://i.imgur.com/iYCbuTY.jpg</thumbnail>
+<info></info>
+</item>
 	
 <title>Canales</title>
-<link>https://raw.githubusercontent.com/daones123/listas/master/prueba.xml</link>
+<link></link>
 <regex><name>tok</name><expres>token=(.*)</expres>
 
 
