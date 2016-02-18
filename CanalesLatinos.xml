@@ -94,7 +94,7 @@
 <regex>
 <name>id</name>
 <expres>file:'(.*)'</expres>
-<page>http://streamin.to/qdlhsftxazkb</page>
+<page>http://streamin.to/embed-udkkl0fd8k2n-640x360.html</page>
 <referer>http://streamin.to</referer>
 </regex>
 <fanart>http://bajalogratis.com/wp-content/uploads/2015/11/front12.jpg</fanart>
@@ -111,6 +111,20 @@
 <expres>file:'(.*)'</expres>
 <page>http://powvideo.net/embed-mvm8axi1ry9l-640x360.html</page>
 <referer>http://powvideo.net</referer>
+</regex>
+<fanart>http://bajalogratis.com/wp-content/uploads/2015/11/front12.jpg</fanart>
+<thumbnail>http://imgs24.com/i/panda3gif3.gif</thumbnail>
+<info></info>
+</item>
+
+<item>
+<title>ElIncreible Hulk</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-o45k80zxw155-640x360.html</page>
+<referer>http://streamin.to</referer>
 </regex>
 <fanart>http://bajalogratis.com/wp-content/uploads/2015/11/front12.jpg</fanart>
 <thumbnail>http://imgs24.com/i/panda3gif3.gif</thumbnail>
@@ -143,17 +157,9 @@
 <fanart>https://image.tmdb.org/t/p/original/rQPert6i5pTTjNinTGwXzgxWjy5.jpg</fanart>
 <thumbnail>https://image.tmdb.org/t/p/w500/82VRb1DTNQoqRGKZ042r2PT0skl.jpg</thumbnail>
 <info></info>
-
 </item>
-
-
-
 </items>
 </channel>
-
-	
-
-	
 
 <channel>
 
