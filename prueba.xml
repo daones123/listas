@@ -19,33 +19,33 @@ http://acabsw.doiptv.com/cs_canal_accion/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://spa.fotolog.com/photo/26/10/32/albertogilabert/1232979929207_f.jpg" group-title="CINE",Antena Latina 7
 http://ss6.domint.net:1962/al_edge/antena/playlist.m3u8
 
-#EXTINF:-1 cer tv
+#EXTINF:-1 tvg-logo="http://spa.fotolog.com/photo/26/10/32/albertogilabert/1232979929207_f.jpg" group-title="CINE",cer tv
 http://216.24.196.40:1935/live/canal4/playlist.m3u8
 
-#EXTINF:-1 cdn
+#EXTINF:-1 tvg-logo="http://spa.fotolog.com/photo/26/10/32/albertogilabert/1232979929207_f.jpg" group-title="CINE",cdn
 http://108.168.206.90:1935/cdn/cdn/playlist.m3u8
 
-#EXTINF:-1 telecentro
+#EXTINF:-1 tvg-logo="http://spa.fotolog.com/photo/26/10/32/albertogilabert/1232979929207_f.jpg" group-title="CINE",telecentro
 http://ss7.domint.net:2050/tcc_str/tc13/playlist.m3u8
 
-#EXTINF:-1 canal 25 santiago
+#EXTINF:-1 tvg-logo="http://spa.fotolog.com/photo/26/10/32/albertogilabert/1232979929207_f.jpg" group-title="CINE",canal 25 santiago
 http://ss7.domint.net:2074/tdtv_str/vision/playlist.m3u8
 
-#EXTINF:-1 Teleantillas
+#EXTINF:-1 tvg-logo="http://spa.fotolog.com/photo/26/10/32/albertogilabert/1232979929207_f.jpg" group-title="CINE",Teleantillas
 http://mek4.mekstream.com/teleantillas/smil:teleantillas.smil/playlist.m3u8
 
-#EXTINF:-1 color vision
+#EXTINF:-1 tvg-logo="http://spa.fotolog.com/photo/26/10/32/albertogilabert/1232979929207_f.jpg" group-title="CINE",color vision
 http://ss7.domint.net:2048/cvis_str/color/playlist.m3u8
 
-#EXTINF:-1 cdn sport max
+#EXTINF:-1 tvg-logo="http://spa.fotolog.com/photo/26/10/32/albertogilabert/1232979929207_f.jpg" group-title="CINE",cdn sport max
 http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
 
-#EXTINF:-1 canal 25 santiago
+#EXTINF:-1 tvg-logo="http://spa.fotolog.com/photo/26/10/32/albertogilabert/1232979929207_f.jpg" group-title="CINE",canal 25 santiago
 http://ss7.domint.net:2074/tdtv_str/vision/playlist.m3u8
 
-#EXTINF:-1 Teleradio America
+#EXTINF:-1 tvg-logo="http://spa.fotolog.com/photo/26/10/32/albertogilabert/1232979929207_f.jpg" group-title="CINE",Teleradio America
 http://ss7.domint.net:2068/t45_str/trlive/playlist.m3u8
 
-#EXTINF:-1 Super canal 33
+#EXTINF:-1 tvg-logo="http://spa.fotolog.com/photo/26/10/32/albertogilabert/1232979929207_f.jpg" group-title="CINE",Super canal 33
 http://ss6.domint.net:2010/sc33_str/super/playlist.m3u8
 
