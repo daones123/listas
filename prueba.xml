@@ -1,21 +1,6 @@
 
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://www.canalbuzz.tv/img/canal_logo_buzzrojo.gif" group-title="CINE",BUZZ
-http://tinyurl.com/m49t2ss
-  	
-#EXTINF:-1 tvg-logo="http://spa.fotolog.com/photo/26/10/32/albertogilabert/1232979929207_f.jpg" group-title="CINE",C+ 1
-http://acabsw.doiptv.com/cs_canal_1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://spa.fotolog.com/photo/26/10/32/albertogilabert/1232979929207_f.jpg" group-title="CINE",C+ 2
-http://acabsw.doiptv.com/cs_canal_2/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="C+ 1 ...30.jpg" group-title="CINE",C+ 1 ...30
-http://acabsw.doiptv.com/cs_canal_30/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Canal%20%2B%20Acci%C3%B3n.png" group-title="CINE",C+ Acción
-http://acabsw.doiptv.com/cs_canal_accion/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://spa.fotolog.com/photo/26/10/32/albertogilabert/1232979929207_f.jpg" group-title="CINE",Antena Latina 7
 http://ss6.domint.net:1962/al_edge/antena/playlist.m3u8
 
