@@ -56,6 +56,12 @@
 <fanart>http://i.imgur.com/K4xQJGC.jpg</fanart>
 <thumbnail>http://i.imgur.com/K4xQJGC.jpg</thumbnail>
 <items>
+
+<name>Correo:crakodi@outlook.com</name>
+<name>whatsapp:8296466153</name>
+<name>facebook:</name>
+
+
 </items>
 </channel>
 
@@ -112,7 +118,7 @@
 <page>http://powvideo.net/embed-mvm8axi1ry9l-640x360.html</page>
 <referer>http://powvideo.net</referer>
 </regex>
-<fanart>http://bajalogratis.com/wp-content/uploads/2015/11/front12.jpg</fanart>
+<fanart>http://imgs24.com/i/panda3gif3.gif</fanart>
 <thumbnail>http://imgs24.com/i/panda3gif3.gif</thumbnail>
 <info></info>
 </item>
@@ -126,7 +132,7 @@
 <page>http://streamin.to/embed-o45k80zxw155-640x360.html</page>
 <referer>http://streamin.to</referer>
 </regex>
-<fanart>http://bajalogratis.com/wp-content/uploads/2015/11/front12.jpg</fanart>
+<fanart>http://pics.filmaffinity.com/El_incre_ble_Hulk-175130941-large.jpg</fanart>
 <thumbnail>http://imgs24.com/i/panda3gif3.gif</thumbnail>
 <info></info>
 </item>
@@ -181,5 +187,5 @@
 
 </items>
 </channel>
-	
 </channels>
+
