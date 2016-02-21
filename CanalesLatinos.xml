@@ -27,6 +27,8 @@
 </items>
 </channel>
 
+
+
 <channel>
 <name>[COLOR grey]Nuevas Peliculas:[/COLOR]</name>
 <fanart>http://i.imgur.com/K4xQJGC.jpg</fanart>
@@ -72,12 +74,18 @@
 <items>
 
 
-<name>[COLOR red]• [/COLOR][COLOR blue]Peliculas[/COLOR]</name>
-<fanart>http://i.imgur.com/qjmJJAZ.jpg</fanart>
+
+
+
+
+<item>
+<title>[COLOR red]•[/COLOR][COLOR blue] Peliculas [/COLOR]  </title>
+<link>http://ignora.me</link>
 <externallink>https://raw.githubusercontent.com/daones123/listas/master/Peliculas.xml</externallink>
+<fanart>http://i.imgur.com/qjmJJAZ.jpg</fanart>
 <thumbnail>http://i.imgur.com/qjmJJAZ.jpg</thumbnail>
-
-
+<info></info>
+</item>
 
 <!----------------------
 ------------------------>
