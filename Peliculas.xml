@@ -59,5 +59,21 @@
 <info></info>
 </item>
 
+<item>
+<title>Titanes del Pacifico</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-bd54jbo4s9bh-640x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>http://www.diariodemexico.com.mx/wp-content/uploads/2014/06/pafic.jpg</fanart>
+<thumbnail>http://www.diariodemexico.com.mx/wp-content/uploads/2014/06/pafic.jpg</thumbnail>
+<info></info>
+</item>
+
+http://streamin.to/embed-bd54jbo4s9bh-640x360.html
+
 </items>
 
