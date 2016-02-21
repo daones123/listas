@@ -26,7 +26,7 @@
 </channel>
 
 <channel>
-<name>[COLOR grey]Nuevas Peliculas:[/COLOR]</name>
+<name>[COLOR grey]Nuevas Peliculas: Titanes del pacifico[/COLOR]</name>
 <fanart>http://i.imgur.com/K4xQJGC.jpg</fanart>
 <thumbnail>http://i.imgur.com/K4xQJGC.jpg</thumbnail>
 <items>
@@ -61,11 +61,11 @@
 
 </item>
 
-
+<item>
 <name>Correo:crakodi@outlook.com</name>
 <name>whatsapp:8296466153</name>
 <name>facebook:</name>
-
+</item>
 
 </items>
 </channel>
