@@ -72,74 +72,12 @@
 <items>
 
 
-<channel>
 <name>[COLOR red]• [/COLOR][COLOR blue]Peliculas[/COLOR]</name>
 <fanart>http://i.imgur.com/qjmJJAZ.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/daones123/listas/master/Peliculas.xml</externallink>
 <thumbnail>http://i.imgur.com/qjmJJAZ.jpg</thumbnail>
 
-<items>
-	
-<item>
-<title>steve jobs</title>
-<link>$doregex[id]</link>
-<regex>
-<name>id</name>
-<expres>file:'(.*)'</expres>
-<page>http://streamin.to/embed-qdlhsftxazkb-640x360.html</page>
-<referer>http://streamin.to</referer>
-</regex>
-<fanart>http://es.web.img1.acsta.net/r_160_240/b_1_d6d6d6/pictures/15/09/07/10/28/163814.jpg</fanart>
-<thumbnail>http://es.web.img1.acsta.net/r_160_240/b_1_d6d6d6/pictures/15/09/07/10/28/163814.jpg</thumbnail>
-<info></info>
-</item>
 
-	
-<item>
-<title>Maze Runner 2:Prueba De Fuego</title>
-<link>$doregex[id]</link>
-<regex>
-<name>id</name>
-<expres>file:'(.*)'</expres>
-<page>http://streamin.to/embed-udkkl0fd8k2n-640x360.html</page>
-<referer>http://streamin.to</referer>
-</regex>
-<fanart>http://bajalogratis.com/wp-content/uploads/2015/11/front12.jpg</fanart>
-<thumbnail>http://bajalogratis.com/wp-content/uploads/2015/11/front12.jpg</thumbnail>
-<info></info>
-</item>
-
-	
-<item>
-<title>Kung Fu Panda 3</title>
-<link>$doregex[id]</link>
-<regex>
-<name>id</name>
-<expres>file:'(.*)'</expres>
-<page>http://powvideo.net/embed-mvm8axi1ry9l-640x360.html</page>
-<referer>http://powvideo.net</referer>
-</regex>
-<fanart>http://imgs24.com/i/panda3gif3.gif</fanart>
-<thumbnail>http://imgs24.com/i/panda3gif3.gif</thumbnail>
-<info></info>
-</item>
-
-<item>
-<title>ElIncreible Hulk</title>
-<link>$doregex[id]</link>
-<regex>
-<name>id</name>
-<expres>file:'(.*)'</expres>
-<page>http://streamin.to/embed-o45k80zxw155-640x360.html</page>
-<referer>http://streamin.to</referer>
-</regex>
-<fanart>http://pics.filmaffinity.com/El_incre_ble_Hulk-175130941-large.jpg</fanart>
-<thumbnail>http://imgs24.com/i/panda3gif3.gif</thumbnail>
-<info></info>
-</item>
-
-</items>
-
-</channel>
 
 <!----------------------
 ------------------------>
