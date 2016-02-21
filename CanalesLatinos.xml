@@ -11,6 +11,13 @@
 
 <channel>
 
+<item>
+<title>                           [COLOR skyblue]						Bienvenidos[/COLOR]</title>
+<thumbnail>http://i.imgur.com/K4xQJGC.jpg</thumbnail><fanart>http://i.imgur.com/K4xQJGC.jpg</fanart>
+</item>
+
+
+
 
 <name>[COLOR grey]                                                   Bienvenidos [/COLOR]</name>
 <fanart>http://i.imgur.com/K4xQJGC.jpg</fanart>
@@ -83,12 +90,6 @@
 <name>[COLOR red]• [/COLOR][COLOR blue]Peliculas[/COLOR]</name>
 <fanart>http://i.imgur.com/qjmJJAZ.jpg</fanart>
 <thumbnail>http://i.imgur.com/qjmJJAZ.jpg</thumbnail>
-
-<name>[COLOR red]• [/COLOR][COLOR blue]Canales[/COLOR]</name>
-<fanart>http://i.imgur.com/qjmJJAZ.jpg</fanart>
-<thumbnail>http://i.imgur.com/qjmJJAZ.jpg</thumbnail>
-<items>
-
 
 <item>
 <title>[COLOR lime]•[/COLOR][COLOR coral]  Peliculas [/COLOR]  </title>
