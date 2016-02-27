@@ -45,19 +45,6 @@
 <info></info>
 </item>
 	
-<item>
-<title>Kung Fu Panda 3</title>
-<link>$doregex[id]</link>
-<regex>
-<name>id</name>
-<expres>file:'(.*)'</expres>
-<page>http://powvideo.net/embed-mvm8axi1ry9l-640x360.html</page>
-<referer>http://powvideo.net</referer>
-</regex>
-<fanart>http://imgs24.com/i/panda3gif3.gif</fanart>
-<thumbnail>http://imgs24.com/i/panda3gif3.gif</thumbnail>
-<info></info>
-</item>
 
 
 <item>
@@ -74,7 +61,128 @@
 <info></info>
 </item>
 
-http://streamin.to/embed-bd54jbo4s9bh-640x360.html
+<item>
+<title>Creed La leyenda de Rocky</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-vo9skzdbzlnh-640x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>http://www.diariodemexico.com.mx/wp-content/uploads/2014/06/pafic.jpg</fanart>
+<thumbnail>http://www.diariodemexico.com.mx/wp-content/uploads/2014/06/pafic.jpg</thumbnail>
+<info></info>
+</item
+
+http://streamin.to/embed-d0sebblysi1n-640x360.html
+
+<title>Creed La leyenda de Rocky</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>
+<items>
+<item>
+  
+<title>steve jobs</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-qdlhsftxazkb-640x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>http://es.web.img1.acsta.net/r_160_240/b_1_d6d6d6/pictures/15/09/07/10/28/163814.jpg</fanart>
+<thumbnail>http://es.web.img1.acsta.net/r_160_240/b_1_d6d6d6/pictures/15/09/07/10/28/163814.jpg</thumbnail>
+<info></info>
+</item>
+
+	
+<item>
+<title>Maze Runner 2:Prueba De Fuego</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-udkkl0fd8k2n-640x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>http://bajalogratis.com/wp-content/uploads/2015/11/front12.jpg</fanart>
+<thumbnail>http://bajalogratis.com/wp-content/uploads/2015/11/front12.jpg</thumbnail>
+<info></info>
+</item>
+
+
+<item>
+<title>El Increible Hulk</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-o45k80zxw155-640x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://i.ytimg.com/vi/YmtbFQvTphg/maxresdefault.jpg</fanart>
+<thumbnail>https://i.ytimg.com/vi/YmtbFQvTphg/maxresdefault.jpg</thumbnail>
+<info></info>
+</item>
+	
+
+
+<item>
+<title>Titanes del Pacifico</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-bd54jbo4s9bh-640x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>http://www.diariodemexico.com.mx/wp-content/uploads/2014/06/pafic.jpg</fanart>
+<thumbnail>http://www.diariodemexico.com.mx/wp-content/uploads/2014/06/pafic.jpg</thumbnail>
+<info></info>
+</item>
+
+<item>
+<title>Creed La leyenda de Rocky</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-vo9skzdbzlnh-640x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://consequenceofsound.files.wordpress.com/2015/11/creed-original-motion-picture-soundtrack-1160x1160.jpg</fanart>
+<thumbnail>https://consequenceofsound.files.wordpress.com/2015/11/creed-original-motion-picture-soundtrack-1160x1160.jpg</thumbnail>
+<info></info>
+</item>
+
+
+
+<title>Titanic</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-vo9skzdbzlnh-640x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://mcarmenfer.files.wordpress.com/2011/03/titanic.gif</fanart>
+<thumbnail>https://mcarmenfer.files.wordpress.com/2011/03/titanic.gif</thumbnail>
+<info></info>
+</item
+
+</items>
+
+</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>http://www.diariodemexico.com.mx/wp-content/uploads/2014/06/pafic.jpg</fanart>
+<thumbnail>http://www.diariodemexico.com.mx/wp-content/uploads/2014/06/pafic.jpg</thumbnail>
+<info></info>
+</item
 
 </items>
 

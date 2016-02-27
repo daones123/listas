@@ -10,12 +10,11 @@
 
 
 
-<name>[COLOR grey]                                                Shuster Palomo [/COLOR]</name>
+<name>[COLOR grey]                                               Bienvenido [/COLOR]</name>
 <fanart>http://i.imgur.com/K4xQJGC.jpg</fanart>
 <thumbnail>http://i.imgur.com/K4xQJGC.jpg</thumbnail>
 <items>
-
-
+</items>
 
 <channel>
 <name>[COLOR red]•••••••••••••••••••••••••••••••••••••••••• [/COLOR][COLOR blue]C.R.A[/COLOR][COLOR red]•••••••••••••••••••••••••••••••••••••••••• [/COLOR]</name>
@@ -26,7 +25,7 @@
 </channel>
 
 <channel>
-<name>[COLOR grey]Nuevas Peliculas: Titanes del pacifico[/COLOR]</name>
+<name>[COLOR grey]Nuevas Peliculas:[/COLOR]</name>
 <fanart>http://i.imgur.com/K4xQJGC.jpg</fanart>
 <thumbnail>http://i.imgur.com/K4xQJGC.jpg</thumbnail>
 <items>
@@ -143,4 +142,5 @@
 </items>
 </channel>
 </channels>
+
 
