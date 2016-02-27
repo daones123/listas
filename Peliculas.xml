@@ -32,7 +32,7 @@
 
 
 <item>
-<title>ElIncreible Hulk</title>
+<title>El Increible Hulk</title>
 <link>$doregex[id]</link>
 <regex>
 <name>id</name>
