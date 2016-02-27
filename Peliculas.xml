@@ -149,7 +149,7 @@
 </item>
 
 
-
+<item>
 <title>Titanic</title>
 <link>$doregex[id]</link>
 <regex>
@@ -164,5 +164,5 @@
 </item>
 
 
-
+</items>
 
