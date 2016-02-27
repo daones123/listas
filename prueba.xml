@@ -34,8 +34,7 @@ http://ss7.domint.net:2068/t45_str/trlive/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://spa.fotolog.com/photo/26/10/32/albertogilabert/1232979929207_f.jpg" group-title="CINE",Super canal 33
 http://ss6.domint.net:2010/sc33_str/super/playlist.m3u8
 
-#EXTINF:-1,FOX
-http://178.238.224.19/5858/201.m3u8
+#EXTINF:-1 tvg-logo="http://spa.fotolog.com/photo/26/10/32/albertogilabert/1232979929207_f.jpg" group-title="CINE",Fox http://178.238.224.19/5858/201.m3u8
 #EXTINF:-1,WARNERCHANNEL
 http://178.238.224.19/5858/205.m3u8
 #EXTINF:0,UNIVERSAL
