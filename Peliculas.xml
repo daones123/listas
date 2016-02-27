@@ -117,51 +117,6 @@
 <thumbnail>https://i.ytimg.com/vi/YmtbFQvTphg/maxresdefault.jpg</thumbnail>
 <info></info>
 </item>
-	
-
-
-<item>
-<title>Titanes del Pacifico</title>
-<link>$doregex[id]</link>
-<regex>
-<name>id</name>
-<expres>file:'(.*)'</expres>
-<page>http://streamin.to/embed-bd54jbo4s9bh-640x360.html</page>
-<referer>http://streamin.to</referer>
-</regex>
-<fanart>http://www.diariodemexico.com.mx/wp-content/uploads/2014/06/pafic.jpg</fanart>
-<thumbnail>http://www.diariodemexico.com.mx/wp-content/uploads/2014/06/pafic.jpg</thumbnail>
-<info></info>
-</item>
-
-<item>
-<title>Creed La leyenda de Rocky</title>
-<link>$doregex[id]</link>
-<regex>
-<name>id</name>
-<expres>file:'(.*)'</expres>
-<page>http://streamin.to/embed-vo9skzdbzlnh-640x360.html</page>
-<referer>http://streamin.to</referer>
-</regex>
-<fanart>https://consequenceofsound.files.wordpress.com/2015/11/creed-original-motion-picture-soundtrack-1160x1160.jpg</fanart>
-<thumbnail>https://consequenceofsound.files.wordpress.com/2015/11/creed-original-motion-picture-soundtrack-1160x1160.jpg</thumbnail>
-<info></info>
-</item>
-
-
-<item>
-<title>Titanic</title>
-<link>$doregex[id]</link>
-<regex>
-<name>id</name>
-<expres>file:'(.*)'</expres>
-<page>http://streamin.to/embed-vo9skzdbzlnh-640x360.html</page>
-<referer>http://streamin.to</referer>
-</regex>
-<fanart>https://mcarmenfer.files.wordpress.com/2011/03/titanic.gif</fanart>
-<thumbnail>https://mcarmenfer.files.wordpress.com/2011/03/titanic.gif</thumbnail>
-<info></info>
-</item>
 
 
 </items>
