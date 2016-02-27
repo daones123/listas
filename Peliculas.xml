@@ -1,7 +1,7 @@
 
 <items>
+
 <item>
-  
 <title>steve jobs</title>
 <link>$doregex[id]</link>
 <regex>
