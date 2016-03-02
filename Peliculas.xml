@@ -105,20 +105,6 @@
 </item>
 
 
-<item>
-<title>Resident evil</title>
-<link>$doregex[id]</link>
-<regex>
-<name>id</name>
-<expres>file:'(.*)'</expres>
-<page>http://streamin.to/embed-alob0x1hqgey-640x360.html</page>
-<referer>http://streamin.to</referer>
-</regex>
-<fanart>http://vignette2.wikia.nocookie.net/residentevil/images/f/f3/Resident_evil_movie.jpg/revision/latest?cb=20120331195656&path-prefix=es</fanart>
-<thumbnail>http://vignette2.wikia.nocookie.net/residentevil/images/f/f3/Resident_evil_movie.jpg/revision/latest?cb=20120331195656&path-prefix=es</thumbnail>
-<info></info>
-</item>
-
 
 <item>
 <title>resident evil 5</title>
@@ -133,6 +119,21 @@
 <thumbnail>http://vignette4.wikia.nocookie.net/doblaje/images/e/e6/Resident-evil-5-la-venganza-poster-en-alta-resolucion-hd-milla-jovovich-michelle-rodriguez-kevin-durand.jpg/revision/latest?cb=20130910023649&path-prefix=es</thumbnail>
 <info></info>
 </item>
+
+<item>
+<title>Resident evil</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-alob0x1hqgey-640x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>http://vignette2.wikia.nocookie.net/residentevil/images/f/f3/Resident_evil_movie.jpg/revision/latest?cb=20120331195656&path-prefix=es</fanart>
+<thumbnail>http://vignette2.wikia.nocookie.net/residentevil/images/f/f3/Resident_evil_movie.jpg/revision/latest?cb=20120331195656&path-prefix=es</thumbnail>
+<info></info>
+</item>
+
 
 
 <item>
@@ -437,21 +438,6 @@
 <info></info>
 </item>
 
-
-
-<item>
-<title>Un gran dinosaurio</title>
-<link>$doregex[id]</link>
-<regex>
-<name>id</name>
-<expres>file:'(.*)'</expres>
-<page></page>
-<referer>http://streamin.to</referer>
-</regex>
-<fanart></fanart>
-<thumbnail></thumbnail>
-<info></info>
-</item>
 
 </items>
 
