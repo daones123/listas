@@ -185,6 +185,95 @@
 
 
 <item>
+<title>Mazer Runner</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-5exr342b7zt9-640x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>http://cdn.collider.com/wp-content/uploads/the-maze-runner-teaser-poster.jpg</fanart>
+<thumbnail>http://cdn.collider.com/wp-content/uploads/the-maze-runner-teaser-poster.jpg</thumbnail>
+<info></info>
+</item>
+
+
+<item>
+<title>Tracer</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-5jt335xdmakd-640x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>http://www.elmulticine.com/imagenes/carteles/5/tracers-cartel-b.jpg</fanart>
+<thumbnail>http://www.elmulticine.com/imagenes/carteles/5/tracers-cartel-b.jpg</thumbnail>
+<info></info>
+</item>
+
+
+<item>
+<title>La falla de San Andrea</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-ok6q9fqe9tms-640x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>http://lgblog.cl.s3.amazonaws.com/wp-content/uploads/2015/05/sa03.jpg</fanart>
+<thumbnail>http://lgblog.cl.s3.amazonaws.com/wp-content/uploads/2015/05/sa03.jpg</thumbnail>
+<info></info>
+</item>
+
+
+<item>
+<title>Iron Man 2</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-3w6u8utovs12-640x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>http://vignette3.wikia.nocookie.net/doblaje/images/5/56/Iron_Man_2_Poster.jpg/revision/latest?cb=20120712032006&path-prefix=es</fanart>
+<thumbnail>http://vignette3.wikia.nocookie.net/doblaje/images/5/56/Iron_Man_2_Poster.jpg/revision/latest?cb=20120712032006&path-prefix=es</thumbnail>
+<info></info>
+</item>
+
+
+<item>
+<title>Rapido y furioso 7</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-1w0icki4ax0d-640x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://i.ytimg.com/vi/k7d1NruQfI0/maxresdefault.jpg</fanart>
+<thumbnail>https://i.ytimg.com/vi/k7d1NruQfI0/maxresdefault.jpg</thumbnail>
+<info></info>
+</item>
+
+
+<item>
+<title>Ant Man</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-3w6u8utovs12-640x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://blurppy.files.wordpress.com/2015/05/screen-shot-2015-05-28-at-12-03-01-pm.png</fanart>
+<thumbnail>https://blurppy.files.wordpress.com/2015/05/screen-shot-2015-05-28-at-12-03-01-pm.png</thumbnail>
+<info></info>
+</item>
+
+<item>
 <title>resident evil 2</title>
 <link>$doregex[id]</link>
 <regex>
