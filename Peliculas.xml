@@ -201,21 +201,6 @@
 
 
 
-<item>
-<title>Rapido y furioso 7</title>
-<link>$doregex[id]</link>
-<regex>
-<name>id</name>
-<expres>file:'(.*)'</expres>
-<page>http://streamin.to/embed-b4ahkrwxeqgf-640x360.html</page>
-<referer>http://streamin.to</referer>
-</regex>
-<fanart>http://cdn.lopezdoriga.com/wp-content/uploads/2015/09/e6b5e3c5b1544dc1ad028e1c8608454e.jpg</fanart>
-<thumbnail>http://cdn.lopezdoriga.com/wp-content/uploads/2015/09/e6b5e3c5b1544dc1ad028e1c8608454e.jpg</thumbnail>
-<info></info>
-</item>
-
-
 
 <item>
 <title>Los minions</title>
@@ -344,6 +329,7 @@
 
 
 
+
 <item>
 <title>Iron Man</title>
 <link>$doregex[id]</link>
@@ -423,21 +409,4 @@
 </item>
 
 
-
-<item>
-<title>Kun Fu Panda 3</title>
-<link>$doregex[id]</link>
-<regex>
-<name>id</name>
-<expres>file:'(.*)'</expres>
-<page>http://streamin.to/embed-naelihd22u19-640x360.html</page>
-<referer>http://streamin.to</referer>
-</regex>
-<fanart>https://i.ytimg.com/vi/10r9ozshGVE/maxresdefault.jpg</fanart>
-<thumbnail>https://i.ytimg.com/vi/10r9ozshGVE/maxresdefault.jpg</thumbnail>
-<info></info>
-</item>
-
-
-</items>
 
