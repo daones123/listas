@@ -50,8 +50,6 @@
 
 
 
-
-
 <channel>
 
 <name> Informacion </name>
@@ -66,6 +64,32 @@
 </item>
 </items>
 </channel>
+
+
+<channel>
+
+<name> Informacion </name>
+<fanart>http://i.imgur.com/K4xQJGC.jpg</fanart>
+<thumbnail>http://i.imgur.com/K4xQJGC.jpg</thumbnail>
+<items>
+<item>
+
+<title>Correo:craplugins@hotmail.com  facebook:https://www.facebook.com/CRA-391072697649910/?ref=hl</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page></page>
+<referer></referer>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/rQPert6i5pTTjNinTGwXzgxWjy5.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w500/82VRb1DTNQoqRGKZ042r2PT0skl.jpg</thumbnail>
+
+</item>
+</items>
+</channel>
+
+
 
 
 
