@@ -31,7 +31,6 @@
 <info></info>
 </item>
 
-	<IFRAME SRC="http://streamin.to/embed-7l5q0pedupv6-640x360.html" FRAMEBORDER=0 MARGINWIDTH=0 MARGINHEIGHT=0 SCROLLING=NO WIDTH=640 HEIGHT=360></IFRAME>
 
 <item>
 <title>Creed La leyenda de Rocky</title>
@@ -141,17 +140,18 @@
 </item>
 
 
+
 <item>
-<title>resident evil 5</title>
+<title>Resident Evil 5</title>
 <link>$doregex[id]</link>
 <regex>
 <name>id</name>
 <expres>file:'(.*)'</expres>
-<page></page>
+<page>http://streamin.to/embed-7l5q0pedupv6-640x360.html</page>
 <referer>http://streamin.to</referer>
 </regex>
-<fanart>http://vignette4.wikia.nocookie.net/doblaje/images/e/e6/Resident-evil-5-la-venganza-poster-en-alta-resolucion-hd-milla-jovovich-michelle-rodriguez-kevin-durand.jpg/revision/latest?cb=20130910023649&path-prefix=es</fanart>
-<thumbnail>http://vignette4.wikia.nocookie.net/doblaje/images/e/e6/Resident-evil-5-la-venganza-poster-en-alta-resolucion-hd-milla-jovovich-michelle-rodriguez-kevin-durand.jpg/revision/latest?cb=20130910023649&path-prefix=es</thumbnail>
+<fanart>http://www.labutaca.net/imagenes/wp-content/original/2012_08/resident-evil-venganza-cartel-4.jpg</fanart>
+<thumbnail>http://www.labutaca.net/imagenes/wp-content/original/2012_08/resident-evil-venganza-cartel-4.jpg</thumbnail>
 <info></info>
 </item>
 
