@@ -52,7 +52,7 @@
 
 <channel>
 
-<name> 										Informacion </name>
+<name> 											Informacion </name>
 <fanart>http://i.imgur.com/K4xQJGC.jpg</fanart>
 <thumbnail>http://i.imgur.com/K4xQJGC.jpg</thumbnail>
 <items>
@@ -77,7 +77,9 @@
 
 
 
+
 <channel>
+
 <name>[COLOR red]• [/COLOR][COLOR blue]Peliculas[/COLOR]</name>
 <fanart>http://i.imgur.com/qjmJJAZ.jpg</fanart>
 <thumbnail>http://i.imgur.com/qjmJJAZ.jpg</thumbnail>
@@ -144,15 +146,13 @@
 </items>
 </channel>
 
-
-
 <channel>
-<name>[COLOR red]Correo:craplugins@hotmail.com[/COLOR]</name>
+<name>Correo:craplugins@hotmail.com</name>
 <fanart>http://i.imgur.com/K4xQJGC.jpg</fanart>
 <thumbnail>http://i.imgur.com/K4xQJGC.jpg</thumbnail>
 <items>
-
-
+</items>
+</channel>
 
 
 <channel>
@@ -160,6 +160,10 @@
 <fanart>http://i.imgur.com/K4xQJGC.jpg</fanart>
 <thumbnail>http://i.imgur.com/K4xQJGC.jpg</thumbnail>
 <items>
+</items>
+</channel>
+
+
 
 </channels>
 
