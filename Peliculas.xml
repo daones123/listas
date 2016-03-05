@@ -2,7 +2,7 @@
 <items>
 
 <item>
-<title>steve jobs</title>
+<title>steve jobs [english}</title>
 <link>$doregex[id]</link>
 <regex>
 <name>id</name>
