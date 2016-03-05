@@ -107,6 +107,7 @@
 </item>
 
 
+
 <item>
 <title>resident evil 2</title>
 <link>$doregex[id]</link>
@@ -120,7 +121,6 @@
 <thumbnail>http://vignette3.wikia.nocookie.net/residentevil/images/4/4c/Residentevil2poster.jpg/revision/latest?cb=20110103203204&path-prefix=es</thumbnail>
 <info></info>
 </item>
-
 
 
 <item>
