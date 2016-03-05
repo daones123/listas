@@ -52,7 +52,7 @@
 
 <channel>
 
-<name> 											Informacion </name>
+<name>                                                                  Informacion </name>
 <fanart>http://i.imgur.com/K4xQJGC.jpg</fanart>
 <thumbnail>http://i.imgur.com/K4xQJGC.jpg</thumbnail>
 <items>
@@ -145,6 +145,16 @@
 
 </items>
 </channel>
+
+
+<channel>
+<name>Contactenos Aqui - Pida su pelicula aqui</name>
+<fanart>http://i.imgur.com/K4xQJGC.jpg</fanart>
+<thumbnail>http://i.imgur.com/K4xQJGC.jpg</thumbnail>
+<items>
+</items>
+</channel>
+
 
 <channel>
 <name>Correo:craplugins@hotmail.com</name>
