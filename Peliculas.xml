@@ -234,6 +234,21 @@
 
 
 <item>
+<title>Los Minions</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-uppaojfbmh0m-640x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>http://peliculasm.tv/archivos/img/4106.jpg</fanart>
+<thumbnail>http://peliculasm.tv/archivos/img/4106.jpg</thumbnail>
+<info></info>
+</item>
+
+
+<item>
 <title>Los minions</title>
 <link>$doregex[id]</link>
 <regex>
@@ -416,6 +431,22 @@
 </regex>
 <fanart>http://covarrubias.eumed.net/wp-content/uploads/2013/08/diamantedesangre.jpg</fanart>
 <thumbnail>http://covarrubias.eumed.net/wp-content/uploads/2013/08/diamantedesangre.jpg</thumbnail>
+<info></info>
+</item>
+
+
+
+<item>
+<title>Rapido y furioso 7</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-1w0icki4ax0d-640x360.html/page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>http://www.garuyo.com/web/media/images/images/rapidoyfurioso-1.jpg</fanart>
+<thumbnail>http://www.garuyo.com/web/media/images/images/rapidoyfurioso-1.jpg</thumbnail>
 <info></info>
 </item>
 
