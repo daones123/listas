@@ -250,6 +250,20 @@
 
 
 <item>
+<title>Los minions</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-uppaojfbmh0m-640x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://i.ytimg.com/vi/KDZ9seHY7vY/maxresdefault.jpg</fanart>
+<thumbnail>https://i.ytimg.com/vi/KDZ9seHY7vY/maxresdefault.jpg</thumbnail>
+<info></info>
+</item>
+
+<item>
 <title>Ant Man</title>
 <link>$doregex[id]</link>
 <regex>
@@ -264,19 +278,6 @@
 </item>
 
 
-<item>
-<title>Los minions</title>
-<link>$doregex[id]</link>
-<regex>
-<name>id</name>
-<expres>file:'(.*)'</expres>
-<page>http://streamin.to/embed-uppaojfbmh0m-640x360.html</page>
-<referer>http://streamin.to</referer>
-</regex>
-<fanart>https://i.ytimg.com/vi/KDZ9seHY7vY/maxresdefault.jpg</fanart>
-<thumbnail>https://i.ytimg.com/vi/KDZ9seHY7vY/maxresdefault.jpg</thumbnail>
-<info></info>
-</item>
 
 
 <item>
