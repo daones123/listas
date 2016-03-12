@@ -239,15 +239,13 @@
 <regex>
 <name>id</name>
 <expres>file:'(.*)'</expres>
-<page>http://streamin.to/embed-1w0icki4ax0d-640x360.html</page>
+<page>http://streamin.to/embed-uppaojfbmh0m-640x360.html</page>
 <referer>http://streamin.to</referer>
 </regex>
-<fanart>https://i.ytimg.com/vi/k7d1NruQfI0/maxresdefault.jpg</fanart>
-<thumbnail>https://i.ytimg.com/vi/k7d1NruQfI0/maxresdefault.jpg</thumbnail>
+<fanart>http://www.garuyo.com/web/media/images/images/rapidoyfurioso-1.jpg</fanart>
+<thumbnail>http://www.garuyo.com/web/media/images/images/rapidoyfurioso-1.jpg</thumbnail>
 <info></info>
 </item>
-
-
 
 <item>
 <title>Los minions</title>
@@ -259,7 +257,7 @@
 <referer>http://streamin.to</referer>
 </regex>
 <fanart>https://i.ytimg.com/vi/KDZ9seHY7vY/maxresdefault.jphttp://t2.gstatic.com/images?q=tbn:ANd9GcRbHFoQWQZLymKtwzfjVEvfNDOIdcWOL-tUFstMC00m5OMf961D</fanart>
-<thumbnail>http://t2.gstatic.com/images?q=tbn:ANd9GcRbHFoQWQZLymKtwzfjVEvfNDOIdcWOL-tUFstMC00m5OMf961D</thumbnail>
+<thumbnail>https://i.ytimg.com/vi/KDZ9seHY7vY/maxresdefault.jphttp://t2.gstatic.com/images?q=tbn:ANd9GcRbHFoQWQZLymKtwzfjVEvfNDOIdcWOL-tUFstMC00m5OMf961D</thumbnail>
 <info></info>
 </item>
 
