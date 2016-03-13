@@ -437,20 +437,6 @@
 </item>
 
 
-<item>
-<title>Corazon del mar</title>
-<link>$doregex[id]</link>
-<regex>
-<name>id</name>
-<expres>file:'(.*)'</expres>
-<page>http://streamin.to/embed-u6pf0907gm82-640x360.html</page>
-<referer>http://streamin.to</referer>
-</regex>
-<fanart>http://www.labutaca.net/imagenes/wp-content/original/2015_11/in-the-heart-of-the-sea-cartel-4.jpg</fanart>
-<thumbnail>http://www.labutaca.net/imagenes/wp-content/original/2015_11/in-the-heart-of-the-sea-cartel-4.jpg</thumbnail>
-<info></info>
-</item>
-
 
 <item>
 <title>Los Elegidos</title>
@@ -479,22 +465,6 @@
 </regex>
 <fanart>http://covarrubias.eumed.net/wp-content/uploads/2013/08/diamantedesangre.jpg</fanart>
 <thumbnail>http://covarrubias.eumed.net/wp-content/uploads/2013/08/diamantedesangre.jpg</thumbnail>
-<info></info>
-</item>
-
-
-
-<item>
-<title>Rapido y furioso 7</title>
-<link>$doregex[id]</link>
-<regex>
-<name>id</name>
-<expres>file:'(.*)'</expres>
-<page>http://streamin.to/embed-1w0icki4ax0d-640x360.html</page>
-<referer>http://streamin.to</referer>
-</regex>
-<fanart>http://www.garuyo.com/web/media/images/images/rapidoyfurioso-1.jpg</fanart>
-<thumbnail>http://www.garuyo.com/web/media/images/images/rapidoyfurioso-1.jpg</thumbnail>
 <info></info>
 </item>
 
