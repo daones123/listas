@@ -421,6 +421,67 @@
 
 
 <item>
+<title>Pixels</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-8wwj370lrzhr-640x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>http://images.static-bluray.com/products/20/28393_4_large.jpg</fanart>
+<thumbnail>http://images.static-bluray.com/products/20/28393_4_large.jpg</thumbnail>
+<info></info>
+</item>
+
+
+<item>
+<title>El experimento filadelfia</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-l992ko7mnro7-640x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>http://pics.filmaffinity.com/El_experimento_Filadelfia-606327185-large.jpg</fanart>
+<thumbnail>http://pics.filmaffinity.com/El_experimento_Filadelfia-606327185-large.jpg</thumbnail>
+<info></info>
+</item>
+
+
+<item>
+<title>Corazon del mar</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-u6pf0907gm82-640x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>http://www.labutaca.net/imagenes/wp-content/original/2015_11/in-the-heart-of-the-sea-cartel-4.jpg</fanart>
+<thumbnail>http://www.labutaca.net/imagenes/wp-content/original/2015_11/in-the-heart-of-the-sea-cartel-4.jpg</thumbnail>
+<info></info>
+</item>
+
+
+<item>
+<title>Los Elegidos</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-3baooqyj4ys2-640x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>http://cinepremiere.impresionesaerea.netdna-cdn.com/trailers/2013/04-abril/poster_elegidos.jpg</fanart>
+<thumbnail>http://cinepremiere.impresionesaerea.netdna-cdn.com/trailers/2013/04-abril/poster_elegidos.jpg</thumbnail>
+<info></info>
+</item>
+
+
+
+<item>
 <title>Diamante De Sangre</title>
 <link>$doregex[id]</link>
 <regex>
@@ -442,7 +503,7 @@
 <regex>
 <name>id</name>
 <expres>file:'(.*)'</expres>
-<page>http://streamin.to/embed-1w0icki4ax0d-640x360.html/page>
+<page>http://streamin.to/embed-1w0icki4ax0d-640x360.html</page>
 <referer>http://streamin.to</referer>
 </regex>
 <fanart>http://www.garuyo.com/web/media/images/images/rapidoyfurioso-1.jpg</fanart>
