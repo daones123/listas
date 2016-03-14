@@ -187,35 +187,6 @@
 </item>
 
 
-	
-<item>
-<title>Maze Runner 2:Prueba De Fuego</title>
-<link>$doregex[id]</link>
-<regex>
-<name>id</name>
-<expres>file:'(.*)'</expres>
-<page>http://streamin.to/embed-udkkl0fd8k2n-640x360.html</page>
-<referer>http://streamin.to</referer>
-</regex>
-<fanart>http://bajalogratis.com/wp-content/uploads/2015/11/front12.jpg</fanart>
-<thumbnail>http://bajalogratis.com/wp-content/uploads/2015/11/front12.jpg</thumbnail>
-<info></info>
-</item>
-
-<item>
-<title>Tracer</title>
-<link>$doregex[id]</link>
-<regex>
-<name>id</name>
-<expres>file:'(.*)'</expres>
-<page>http://streamin.to/embed-5jt335xdmakd-640x360.html</page>
-<referer>http://streamin.to</referer>
-</regex>
-<fanart>http://www.elmulticine.com/imagenes/carteles/5/tracers-cartel-b.jpg</fanart>
-<thumbnail>http://www.elmulticine.com/imagenes/carteles/5/tracers-cartel-b.jpg</thumbnail>
-<info></info>
-</item>
-
 
 <item>
 <title>La falla de San Andrea</title>
@@ -247,6 +218,35 @@
 <info></info>
 </item>
 
+
+	
+<item>
+<title>Maze Runner 2:Prueba De Fuego</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-udkkl0fd8k2n-640x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>http://bajalogratis.com/wp-content/uploads/2015/11/front12.jpg</fanart>
+<thumbnail>http://bajalogratis.com/wp-content/uploads/2015/11/front12.jpg</thumbnail>
+<info></info>
+</item>
+
+<item>
+<title>Tracer</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-5jt335xdmakd-640x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>http://www.elmulticine.com/imagenes/carteles/5/tracers-cartel-b.jpg</fanart>
+<thumbnail>http://www.elmulticine.com/imagenes/carteles/5/tracers-cartel-b.jpg</thumbnail>
+<info></info>
+</item>
 
 
 
