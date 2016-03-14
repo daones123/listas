@@ -109,7 +109,7 @@
 <thumbnail>http://i.imgur.com/GFwwpig.jpg</thumbnail>
 <items>
 <item>
-<title>El Infierno</title>
+<title>ProximaMente...</title>
 <link>$doregex[id]</link>
 <regex>
 <name>id</name>
