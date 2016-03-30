@@ -4,6 +4,66 @@
 
 
 <item>
+<title>Crepusculo 1</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-3eafuodrtckp.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://ticotica.files.wordpress.com/2011/05/crepusculoamanecer12.jpg</fanart>
+<thumbnail>https://ticotica.files.wordpress.com/2011/05/crepusculoamanecer12.jpg</thumbnail>
+<info></info>
+</item>
+
+
+<item>
+<title>Crepusculo 2</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-okyi0s8gh3uf.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://ticotica.files.wordpress.com/2011/05/crepusculoamanecer12.jpg</fanart>
+<thumbnail>https://ticotica.files.wordpress.com/2011/05/crepusculoamanecer12.jpg</thumbnail>
+<info></info>
+</item>
+
+
+<item>
+<title>Crepusculo 3</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-xm2knje0wz5z.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://ticotica.files.wordpress.com/2011/05/crepusculoamanecer12.jpg</fanart>
+<thumbnail>https://ticotica.files.wordpress.com/2011/05/crepusculoamanecer12.jpg</thumbnail>
+<info></info>
+</item>
+
+
+<item>
+<title>Crepusculo 4 Parte 1</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-r5n18wjozgz1.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://ticotica.files.wordpress.com/2011/05/crepusculoamanecer12.jpg</fanart>
+<thumbnail>https://ticotica.files.wordpress.com/2011/05/crepusculoamanecer12.jpg</thumbnail>
+<info></info>
+</item>
+
+
+<item>
 <title></title>
 <link>$doregex[id]</link>
 <regex>
