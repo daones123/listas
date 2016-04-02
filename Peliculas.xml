@@ -112,22 +112,6 @@
 <info></info>
 </item>
 
-
-<item>
-<title></title>
-<link>$doregex[id]</link>
-<regex>
-<name>id</name>
-<expres>file:'(.*)'</expres>
-<page></page>
-<referer>http://streamin.to</referer>
-</regex>
-<fanart></fanart>
-<thumbnail></thumbnail>
-<info></info>
-</item>
-
-
 <item>
 <title>Steve Jobs [english}</title>
 <link>$doregex[id]</link>
