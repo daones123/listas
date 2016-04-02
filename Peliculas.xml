@@ -64,20 +64,6 @@
 
 
 
-<item>
-<title>Crepusculo 4 parte 2</title>
-<link>$doregex[id]</link>
-<regex>
-<name>id</name>
-<expres>file:'(.*)'</expres>
-<page></page>
-<referer>http://streamin.to</referer>
-</regex>
-<fanart>https://ticotica.files.wordpress.com/2011/05/crepusculoamanecer12.jpg</fanart>
-<thumbnail>https://ticotica.files.wordpress.com/2011/05/crepusculoamanecer12.jpg</thumbnail>
-<info></info>
-</item>
-
 
 <item>
 <title>star war 7</title>
@@ -90,6 +76,21 @@
 </regex>
 <fanart>http://bajalogratis.com/wp-content/uploads/2016/03/star-wars-7.jpg</fanart>
 <thumbnail>http://bajalogratis.com/wp-content/uploads/2016/03/star-wars-7.jpg</thumbnail>
+<info></info>
+</item>
+
+
+<item>
+<title>Crepusculo 4 parte 2</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-nxyx6twkmxlx-640x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://ticotica.files.wordpress.com/2011/05/crepusculoamanecer12.jpg</fanart>
+<thumbnail>https://ticotica.files.wordpress.com/2011/05/crepusculoamanecer12.jpg</thumbnail>
 <info></info>
 </item>
 
