@@ -19,6 +19,36 @@
 
 
 <item>
+<title>Ratchet and Clank</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-8xn6pbr566i9.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>http://bajalogratis.com/wp-content/uploads/2016/08/Ratchet-y-Clank.jpg</fanart>
+<thumbnail>http://bajalogratis.com/wp-content/uploads/2016/08/Ratchet-y-Clank.jpg</thumbnail>
+<info></info>
+</item>
+
+
+<item>
+<title>El Maestro del Dinero</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-wun4yv8j17an.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>http://bajalogratis.com/wp-content/uploads/2016/08/El-Maestro-Del-Dinero.jpg</fanart>
+<thumbnail>http://bajalogratis.com/wp-content/uploads/2016/08/El-Maestro-Del-Dinero.jpg</thumbnail>
+<info></info>
+</item>
+
+
+<item>
 <title>El Experimento Filadelfia</title>
 <link>$doregex[id]</link>
 <regex>
