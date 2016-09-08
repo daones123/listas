@@ -54,7 +54,7 @@
 <regex>
 <name>id</name>
 <expres>file:'(.*)'</expres>
-<pagehttp://streamin.to/embed-r4xf3d50cb1p.html</page>
+<page>http://streamin.to/embed-r4xf3d50cb1p-640x360.htm</page>
 <referer>http://streamin.to</referer>
 </regex>
 <fanart>https://ticotica.files.wordpress.com/2011/05/crepusculoamanecer12.jpg</fanart>
