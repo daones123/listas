@@ -102,27 +102,6 @@
 ------------------------>
 
 
-<channel>
-
-<name>[COLOR red]• [/COLOR][COLOR blue]Series[/COLOR]</name>
-<fanart>http://i.imgur.com/GFwwpig.jpg</fanart>
-<thumbnail>http://i.imgur.com/GFwwpig.jpg</thumbnail>
-<items>
-<item>
-<title>ProximaMente...</title>
-<link>$doregex[id]</link>
-<regex>
-<name>id</name>
-<expres>file:'(.*)'</expres>
-<page>http://streamin.to/embed-hrhlqiswoaui-740x360.html</page>
-<referer>http://streamin.to</referer>
-</regex>
-<fanart>https://image.tmdb.org/t/p/original/rQPert6i5pTTjNinTGwXzgxWjy5.jpg</fanart>
-<thumbnail>https://image.tmdb.org/t/p/w500/82VRb1DTNQoqRGKZ042r2PT0skl.jpg</thumbnail>
-<info></info>
-</item>
-</items>
-</channel>
 
 <channel>
 
