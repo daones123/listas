@@ -1,7 +1,7 @@
 <items>
 
 <item>
-<title>Resident Evil 3</title>
+<title></title>
 <link>$doregex[id]</link>
 <regex>
 <name>id</name>
