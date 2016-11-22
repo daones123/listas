@@ -16,3 +16,16 @@
 
 
 </items>
+
+<root>
+    <HeaderText>
+        <HeaderText>Dan Testing</HeaderText>
+    </HeaderText>
+    <Image>
+        <img width="100" height="100" alt="FPO lady" src="https://www.google.com.do/imgres?imgurl=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F762369348300251136%2F5Obhonwa.jpg&imgrefurl=https%3A%2F%2Ftwitter.com%2Fgoogle&docid=dh3x9yWZ_LBfwM&tbnid=1g5yMt9Kot_YqM%3A&vet=1&w=512&h=512&bih=700&biw=1309&ved=0ahUKEwi6sZCQm73QAhVL4CYKHY__DxAQMwguKAEwAQ&iact=mrc&uact=8"/>
+    </Image>
+    <BodyText>
+        <p>This is a test of the body text<br  /></p>
+    </BodyText>
+    <ShowLinkArrow>false</ShowLinkArrow>
+</root>
