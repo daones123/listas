@@ -14,6 +14,22 @@
 <info></info>
 </item>
 
+<items>
+
+<item>
+<title> Youtube</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>https://www.youtube.com/embed/xUYTkwvHsHk.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>http://bajalogratis.com/wp-content/uploads/2015/11/front6.jpg</fanart>
+<thumbnail>http://bajalogratis.com/wp-content/uploads/2015/11/front6.jpg</thumbnail>
+<info></info>
+</item>
+
 
 </items>
 
