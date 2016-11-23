@@ -21,7 +21,7 @@
 <regex>
 <name>id</name>
 <expres>file:'(.*)'</expres>
-<page>https://www.youtube.com/embed/xUYTkwvHsHk.html</page>
+<page>https://www.youtube.com/embed/xUYTkwvHsHk?rel=0&amp;controls=0&amp;showinfo=0.html</page>
 <referer>http://streamin.to</referer>
 </regex>
 <fanart>http://bajalogratis.com/wp-content/uploads/2015/11/front6.jpg</fanart>
