@@ -1,7 +1,7 @@
 <items>
 
 <item>
-<title>poof</title>
+<title>poo</title>
 <link>$doregex[id]</link>
 <regex>
 <name>id</name>
